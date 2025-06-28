@@ -4,7 +4,7 @@
 Skrip Python ini digunakan untuk **me-reboot modem FiberHome HG6145D2** secara otomatis melalui antarmuka web-nya.  
 Tanpa perlu klik manual di browser—cukup jalanin skrip ini, modem akan reboot.
 
-> ⚠️ *Didesain untuk jaringan lokal, gunakan dengan akun yang memiliki hak akses login.*
+> ⚠️ *Project ini hanya kegabutan semata. Jangan digunakan untuk hal-hal yang merugikan orang lain.*
 
 ---
 
@@ -62,9 +62,7 @@ Contoh output:
 
 ## ⚠️ Disclaimer
 
-Use at your own risk.  
-Skrip ini hanya untuk penggunaan lokal dan edukasi.  
-Kami tidak bertanggung jawab atas penggunaan yang menyalahgunakan perangkat ISP.
+>  *Use at your own risk. Skrip ini hanya untuk penggunaan lokal dan edukasi. Kami tidak bertanggung jawab atas penggunaan yang menyalahgunakan perangkat ISP.*
 
 ---
 
